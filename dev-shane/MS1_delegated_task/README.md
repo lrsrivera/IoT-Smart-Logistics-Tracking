@@ -4,7 +4,8 @@
 
 **Completed Tasks:**
 - Uploaded:
-  - `blockchain_ledger_test.ipynb` (includes ABI and smart contract interaction)
+  - `blockchain_ledger_test.ipynb` (includes ABI and test package just run it!)
+  - ![image](https://github.com/user-attachments/assets/65bd1360-0d5a-4734-b4e2-fbe4e89c57b9)
   - `iot_data.csv`
   - `smart_contract_interaction.ipynb`
 - Connected to smart contract at `0xa5DF92f425C9070d918A0F14FC5851592f1AD482`
